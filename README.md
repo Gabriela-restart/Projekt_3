@@ -2,10 +2,12 @@
 
 **Třetí projekt do Engeto Online Python Akademie**
 
+
 # Popis projektu
 Election Scraper – Ukázkový projekt
 
 Tento projekt slouží k automatickému stažení výsledků voleb z webu volby.cz  a jejich uložení do souboru ve formátu CSV.
+
 
 # Instalace knihoven
 Knihovny použité v projektu jsou uvedeny v souboru 'requirements.txt'.
@@ -14,7 +16,6 @@ Instalaci lze provést pomocí následujícího příkazu:
 ```
 pip3 install -r requirements.txt
 ```
-
 
 
 # Spuštění
@@ -35,7 +36,6 @@ Výsledky se uloží do souboru s příponou .csv.
 1. argument – https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7105
 
 2. argument – vysledky_sumperk.csv
-
 
 ## Spuštění programu 
 
